@@ -28,7 +28,7 @@ MIT license
   <li>Any IDE supporting Jupyter Notebook files</li>
 </ul>
 
-## Deployment instruction
+## Deploy
 <ul style="line-height: 1.5; font-size:12pt">
   <li>Schedule webcrawler.py code for daily run (ipynb version is for grading)</li>
   <li>Schedule model_update.py for daily run</li>
