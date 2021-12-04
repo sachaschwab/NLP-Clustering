@@ -13,6 +13,13 @@ MIT license
   <li>Any IDE supporting Jupyter Notebook files</li>
 </ul>
 
+## For class Tutors
+<ul style="line-height: 1.5; font-size:12pt">
+  <li>Reports are in A3_DocumentNumber_1_sacha_schwab</li>
+  <li>Python 3.7</li>
+  <li>Any IDE supporting Jupyter Notebook files</li>
+</ul>
+
 ## Base requirements
 <ul style="line-height: 1.5; font-size:12pt">
   <li>Git</li>
