@@ -11,6 +11,7 @@ MIT license
   <li>Crawl Yahoo Finance Cryptocurrency news articles</li>
   <li>Raw text data is preprocessed, embedded (TF-IDF)</li>
   <li>NLP engine runs keyword extraction based on TF-IDF weights, named entity extraction and sentiment analysis</li>
+  <li>HDBSCAN algorithm used for clustering, with currently moderate effectiveness (to be enhance in upcoming versions).</li>
 </ul>
 See architecture outline at the bottom of this page.
 
