@@ -15,9 +15,10 @@ MIT license
 
 ## For class Tutors
 <ul style="line-height: 1.5; font-size:12pt">
-  <li>Reports are in A3_DocumentNumber_1_sacha_schwab</li>
-  <li>Python 3.7</li>
-  <li>Any IDE supporting Jupyter Notebook files</li>
+  <li>Reports are in /main as 'A3_DocumentNumber_X_sacha_schwab<' as per assessment outline/li>
+  <li>Code files: (1) 'code_webcralwer.ipynb', (2) 'code_nlp.ipynb'</li>
+  <li>Model available under /main/model</li>
+   <li>For privacy reasons the audio annotated Powerpoint presentation is not available here but in the assessment folder in JCU Learn</li>
 </ul>
 
 ## Base requirements
