@@ -1,5 +1,5 @@
 # NLP-Clustering
-### Web crawling and NLP engines for clustering of same-event news articles
+### Web crawling and NLP engines and clustering of same-event news articles
 
 ### Assessment 3 of MA5851 (Data Science Master Class 1) at James Cook University
 
