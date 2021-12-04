@@ -38,4 +38,5 @@ See architecture outline at the bottom of this page.
 
 ## Architecture
 <br>
+    
 ![architecture.png](assets/architecture.png)
