@@ -42,4 +42,5 @@ See architecture outline at the bottom of this page.
     
 ![architecture.png](assets/architecture.png)
     
+![crawler_demo](https://user-images.githubusercontent.com/10763939/144720395-bd5d1c48-281f-4362-ab1e-5b9602ec0e0d.gif)
 
