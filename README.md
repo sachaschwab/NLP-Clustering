@@ -9,9 +9,10 @@ MIT license
 ## Quick outline
 <ul style="line-height: 1.5; font-size:12pt">
   <li>Crawl Yahoo Finance Cryptocurrency news articles</li>
-  <li>The model provides the cluster </li>
-  <li>Any IDE supporting Jupyter Notebook files</li>
+  <li>Raw text data is preprocessed, embedded (TF-IDF)</li>
+  <li>NLP engine runs keyword extraction based on TF-IDF weights, named entity extraction and sentiment analysis</li>
 </ul>
+See architecture outline at the bottom of this page.
 
 ## For class Tutors
 <ul style="line-height: 1.5; font-size:12pt">
@@ -34,3 +35,6 @@ MIT license
   <li>Schedule model_update.py for daily run</li>
   <li>TBD: Get connected articles to a new article by running get_cluster from model_run.py</li>
 </ul>
+    
+    
+![architecture.png](assets/architecture.png)
