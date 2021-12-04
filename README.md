@@ -32,8 +32,8 @@ See architecture outline at the bottom of this page.
 
 ## Deploy
 <ul style="line-height: 1.5; font-size:12pt">
-  <li>Schedule webcrawler.py code for daily run (ipynb version is for grading)</li>
-  <li>Schedule model_update.py for daily run</li>
+  <li>Schedule daily_jobs/webcrawler.py code for daily run (ipynb version is for grading)</li>
+  <li>Schedule daily_jobs/model_update.py for daily run</li>
   <li>TBD: Get connected articles to a new article by running get_cluster from model_run.py</li>
 </ul>
 
