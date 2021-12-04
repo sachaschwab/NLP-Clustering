@@ -35,6 +35,7 @@ See architecture outline at the bottom of this page.
   <li>Schedule model_update.py for daily run</li>
   <li>TBD: Get connected articles to a new article by running get_cluster from model_run.py</li>
 </ul>
-    
-    
+
+## Architecture
+<br>
 ![architecture.png](assets/architecture.png)
