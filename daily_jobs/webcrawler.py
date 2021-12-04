@@ -9,8 +9,9 @@ import datetime
 import pandas as pd
 import numpy as np
 from datetime import date
+import os
 
-dir_path = 'data/'
+dir_path = os.path.realpath('data')
 raw_file_name = 'raw_data.csv'
 yahoo_url = "https://finance.yahoo.com/cryptocurrencies/"
 
@@ -121,7 +122,6 @@ def crawl_new_articles(file_path):
     # Loop through urls to crawl and get the data
     i = 0
     for index, row in df_todo.iterrows():
-        # Print 'status'
         print('Now crawling: ' + row['url'])
         # Dict to hold the sample data
         sample = {}
@@ -147,3 +147,7 @@ def crawl_new_articles(file_path):
             print('dropping')
             df = df.drop(index = index)
     return df
+
+dir_path = os.getcwd()
+file_path = dir_path.replace('daily_jobs', '') + 'data/raw_data.csv'
+yahoo_crypto_crawler_pipeline(file_path)
