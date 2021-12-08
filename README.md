@@ -43,7 +43,9 @@ See architecture outline at the bottom of this page.
 <img width="1173" alt="architecture_" src="https://user-images.githubusercontent.com/10763939/145041976-08a6ccf0-1fb9-4290-90aa-de5607582a91.png">
     
     
-    ![crawler_demo](https://user-images.githubusercontent.com/10763939/145158440-65b62795-18df-4990-8d91-319837bb05b0.gif)
+    ![crawler_demo]
+    
+    <img width="1173" https://user-images.githubusercontent.com/10763939/145158440-65b62795-18df-4990-8d91-319837bb05b0.gif>
 
     <img width="1004" alt="cluster_display__" src="https://user-images.githubusercontent.com/10763939/145158416-d60070e0-07b4-4b1a-b2fb-4e55f31d6a0c.png">
 
