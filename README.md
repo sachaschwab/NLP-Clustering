@@ -4,6 +4,7 @@
 ### Assessment 3 of MA5851 (Data Science Master Class 1) at James Cook University
 
 Author: Sacha Schwab
+
 MIT license
 
 ## Quick outline
@@ -43,3 +44,4 @@ See architecture outline at the bottom of this page.
 <img width="1173" alt="architecture_" src="https://user-images.githubusercontent.com/10763939/145041976-08a6ccf0-1fb9-4290-90aa-de5607582a91.png">
     
    
+
