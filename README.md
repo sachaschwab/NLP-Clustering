@@ -1,4 +1,4 @@
-# NLP-Clustering
+# NLP Events Clustering in Python
 ### Web crawling and NLP engines and clustering of same-event news articles
 
 ### Assessment 3 of MA5851 (Data Science Master Class 1) at James Cook University
